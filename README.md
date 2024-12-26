@@ -16,10 +16,12 @@ Welcome to my GitHub! I'm an **Electronics and Communication Engineering student
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- ![Verilog](https://img.shields.io/badge/-Verilog-ED1C24?style=flat-square&logoColor=white)
+
 
 ### **Hardware Design & Tools**
-- Verilog, Cadence, FPGA (Basics)  
-- Octave, Pspice, Soldering  
+- Verilog,Digital Design
+- Octave, Pspice, Xilinx Vivado, Cadence Virtusuo
 
 ---
 
@@ -33,7 +35,7 @@ Welcome to my GitHub! I'm an **Electronics and Communication Engineering student
 - Designed semiconductor solutions, reducing downtime by 30% and increasing design efficiency by 15%.
 - Enhanced production workflows, driving team productivity and reducing project delays.
 
-### **National Institute of Ocean Technology**
+### **Project Intern | National Institute of Ocean Technology**
 - Contributed to IoT-based projects, including buoy temperature monitoring systems.
 
 ---
