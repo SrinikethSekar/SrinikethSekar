@@ -1,7 +1,7 @@
 # Hi there, I'm Sriniketh Sekar! 👋
 
 ## 🚀 About Me
-Welcome to my GitHub! I'm an **Electronics and Communication Engineering student** passionate about **innovation and sustainability** in technology. With a strong foundation in **semiconductors, IoT, and VLSI**, I aim to create impactful solutions that address real-world challenges.
+Welcome to my GitHub! I'm an **Electronics and Communication Engineering student** passionate about **innovation and sustainability** in technology. With a strong foundation in **Semiconductors, VLSI and iot**, I aim to create impactful solutions that address real-world challenges.
 
 - 🌟 **Finalist:** IIT PALS Innowah and IEEE YESIST2022 (Egypt Paper Presentation).
 - 🌱 Currently exploring **chip manufacturing** and **digital design** projects.
@@ -22,6 +22,7 @@ Welcome to my GitHub! I'm an **Electronics and Communication Engineering student
 ### **Hardware Design & Tools**
 - Verilog,Digital Design
 - Octave, Pspice, Xilinx Vivado, Cadence Virtusuo
+- Tcl scripting
 
 ---
 
